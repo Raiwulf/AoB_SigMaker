@@ -28,7 +28,7 @@ A simple Python program to compare Array of Bytes (AOB) patterns, allowing you t
 1. **Run the Program**: Execute the script to start the program.
 
    ```sh
-   python aob_comparator.py
+   python hexbyte_comparator.py
    ```
 
 2. **Select an Option**:
